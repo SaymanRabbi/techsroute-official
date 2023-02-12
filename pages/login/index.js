@@ -1,11 +1,11 @@
-import LoginCompo from "../Components/Login/LoginCompo";
+// import LoginCompo from "../Components/Login/LoginCompo";
 
 
 
-const login = () => {
-    return (
-       <LoginCompo/>
-    );
-};
+// const login = () => {
+//     return (
+//        <LoginCompo/>
+//     );
+// };
 
-export default login;
+// export default login;
