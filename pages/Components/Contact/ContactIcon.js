@@ -2,7 +2,7 @@
 const ContactIcon = () => {
     return (
         <div>
-        <span class="absolute -top-10 -right-9 z-[-1]">
+        <span className="absolute -top-10 -right-9 z-[-1]">
           <svg
             width="100"
             height="100"
@@ -11,14 +11,14 @@ const ContactIcon = () => {
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              fill-rule="evenodd"
-              clip-rule="evenodd"
+              fillRule="evenodd"
+              clipRule="evenodd"
               d="M0 100C0 44.7715 0 0 0 0C55.2285 0 100 44.7715 100 100C100 100 100 100 0 100Z"
               fill="#3056D3"
             />
           </svg>
         </span>
-        <span class="absolute -right-10 top-[90px] z-[-1]">
+        <span className="absolute -right-10 top-[90px] z-[-1]">
           <svg
             width="34"
             height="134"
@@ -238,7 +238,7 @@ const ContactIcon = () => {
             />
           </svg>
         </span>
-        <span class="absolute -left-7 -bottom-7 z-[-1]">
+        <span className="absolute -left-7 -bottom-7 z-[-1]">
           <svg
             width="107"
             height="134"
