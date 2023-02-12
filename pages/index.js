@@ -1,12 +1,12 @@
 import { Inter } from '@next/font/google'
 import Head from 'next/head'
-import Contact from './Components/Contact/Contact'
-import Footer from './Components/Footer/Footer'
-import Hero from './Components/Hero/Hero'
-import Navbar from './Components/Navbar/Navbar'
-import ProjectShowcase from './Components/Project/ProjectShowcase'
-import Review from './Components/Review/Review'
-import Services from './Components/Services/Services'
+import Contact from '../src/Components/Contact/Contact'
+import Footer from '../src/Components/Footer/Footer'
+import Hero from '../src/Components/Hero/Hero'
+import Navbar from '../src/Components/Navbar/Navbar'
+import ProjectShowcase from '../src/Components/Project/ProjectShowcase'
+import Review from '../src/Components/Review/Review'
+import Services from '../src/Components/Services/Services'
 
 const inter = Inter({ subsets: ['latin'] })
 
