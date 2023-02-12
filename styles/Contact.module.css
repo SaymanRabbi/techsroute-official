@@ -1,0 +1,6 @@
+.Contact_Icon_bg {
+  @apply bg-blue-800 mr-6 flex h-[50px] w-full max-w-[50px] items-center justify-center overflow-hidden rounded sm:h-[50px] sm:max-w-[50px];
+}
+.Contact_Icon_text {
+  @apply text-xl text-white;
+}

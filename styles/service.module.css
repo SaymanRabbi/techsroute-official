@@ -1,0 +1,9 @@
+/*----------ServicesSvg-------------*/
+.servicesSvgHedding {
+  @apply relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row;
+}
+.servicesSubHedding {
+  @apply flex h-12 w-12 items-center justify-center rounded-xl text-white sm:shrink-0;
+}
+
+/*----------ServicesSvg-------------*/
